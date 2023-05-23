@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9379517c1d6b8944fb0035697b4cd973, type: 3}
+  m_Name: BuildablesConfig
+  m_EditorClassIdentifier: 
+  _buildables:
+  - _prefab: {fileID: 9154215057541871321, guid: 2554008d6447a2540b44e55f0c0b576e, type: 3}
+    _icon: {fileID: 21300000, guid: dfa47b8539eec3d49990461b82ce64db, type: 3}
+  - _prefab: {fileID: 4577034113271871886, guid: 24457fdf8e66c3c49b7599931e0fdcb2, type: 3}
+    _icon: {fileID: 21300000, guid: 2c6c506245fabec4094259b101009b7d, type: 3}
+  - _prefab: {fileID: 1090505329258949676, guid: 9a91bc2b0a89c4748a0c5b940bd461a7, type: 3}
+    _icon: {fileID: 21300000, guid: 1b3417dd5176a794b91b965798a89dd2, type: 3}
+  - _prefab: {fileID: 4032642331417584291, guid: e133dac167ef59c40b7678ba58107c6a, type: 3}
+    _icon: {fileID: 21300000, guid: 8757dc3f1add20447848a424706d5167, type: 3}
